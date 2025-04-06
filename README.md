@@ -1,4 +1,4 @@
-# Social Good Tracker 🌍
+![image](https://github.com/user-attachments/assets/d3b5bd87-306d-4768-bc70-203891847bfd)# Social Good Tracker 🌍
 
 A modern web application that helps users track, log, and explore social good initiatives. The website features an AI-powered chatbot using the Gemini 2.0 Flash API to provide guidance and recommendations on social impact activities.
 
@@ -30,7 +30,8 @@ A modern web application that helps users track, log, and explore social good in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/social-good-tracker.git
+   git clone https://github.com/navadeep5040/Social-Good-Tracker-Track-social-good-intiatives 
+
    ```
 
 2. Navigate to the project directory:
