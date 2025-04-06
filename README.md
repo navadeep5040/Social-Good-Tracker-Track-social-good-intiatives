@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3b5bd87-306d-4768-bc70-203891847bfd)# Social Good Tracker 🌍
+# Social Good Tracker 🌍
 
 A modern web application that helps users track, log, and explore social good initiatives. The website features an AI-powered chatbot using the Gemini 2.0 Flash API to provide guidance and recommendations on social impact activities.
 
