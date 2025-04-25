@@ -50,6 +50,7 @@ A modern web application that helps users track, log, and explore social good in
 ```
 social-good-tracker/
 ├── index.html
+├── login.html
 ├── css/
 │   └── styles.css
 ├── js/
